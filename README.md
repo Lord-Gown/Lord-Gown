@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lord-Gown
-- 👀 I’m interested in Front-End dev, so basically, React
+- 👀 I’m interested in Front-End dev
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on any project if you would have me. I also do frontend for php and sql backends
+- 💞️ I’m looking to collaborate on any project if you would have me. I also code in php with the Laravel framework
 - 📫 How to reach me: jsineta@gmail.com
