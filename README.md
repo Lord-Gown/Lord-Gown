@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lord-Gown
+- 👋 Hi, I’m Joshua Sineta
 - 👀 I’m interested in Front-End dev
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any project if you would have me. I also code in php with the Laravel framework
